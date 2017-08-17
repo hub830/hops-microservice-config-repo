@@ -1,6 +1,6 @@
 endpoints:
   restart:
-    enabled: true
+    enabled: true-pay-dev
 logging:
   levels:
     org.springframework.boot.env.PropertySourcesLoader: TRACE
